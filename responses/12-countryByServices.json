@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Malawi",
+        "callingCodes": [
+            "265"
+        ],
+        "capital": "Lilongwe",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    }
+]

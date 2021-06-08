@@ -1,0 +1,12 @@
+1 - All countries: https://restcountries.eu/rest/v2/all
+2 - Country by name : https://restcountries.eu/rest/v2/name/Spain
+3 - Country by name full text: https://restcountries.eu/rest/v2/name/Spain?fullText=True
+4 - Country by code: https://restcountries.eu/rest/v2/alpha/ES
+5 - Countries by code: https://restcountries.eu/rest/v2/alpha?codes=ES;FR;GB
+6 - Country by currency: http://restcountries.eu/rest/v2/currency/MXN
+7 - Country by language: https://restcountries.eu/rest/v2/lang/ja
+8 - Country by capital: https://restcountries.eu/rest/v2/capital/rome
+9 - Country by calling code: https://restcountries.eu/rest/v2/callingcode/27
+10 - Country by region: https://restcountries.eu/rest/v2/region/Oceania
+11 - Country by regional block: https://restcountries.eu/rest/v2/regionalbloc/SAARC
+12 - Country by service: http://restcountries.eu/rest/v2/currency/MWK/?fields=name;capital;timezones;callingCodes
